@@ -1,0 +1,37 @@
+{
+  "users": {
+    "62857181532170@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    },
+    "6281316640356@s.whatsapp.net": {
+      "afkTime": -1,
+      "banned": false,
+      "afkReason": ""
+    }
+  },
+  "chats": {
+    "120363040456290000@g.us": {
+      "antionce": true,
+      "mute": false,
+      "antispam": true,
+      "antidelete": false,
+      "setDemote": "",
+      "setPromote": "",
+      "setWelcome": "",
+      "setLeave": ""
+    }
+  },
+  "database": {},
+  "game": {},
+  "settings": {
+    "6281316640356@s.whatsapp.net": {
+      "available": false,
+      "composing": false,
+      "recording": false
+    }
+  },
+  "others": {},
+  "sticker": {}
+}
