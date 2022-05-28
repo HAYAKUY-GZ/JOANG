@@ -30,7 +30,7 @@
 # Api Request
 <a href="https://whmjs.ditzzlabs.tech">https://whmjs.ditzzlabs.tech</a>
 or
-<a href="https://idk.ditzzsenpai.wtf/">https://idk.ditzzsenpai.wtf/</a>
+<a href="https://idk.ditzzsenpai.wtf/">https://idk.ditzzsenpai.wtf/ [ MASIH ADA BUG ]</a>
 
 
 
